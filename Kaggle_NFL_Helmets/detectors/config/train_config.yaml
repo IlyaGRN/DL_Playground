@@ -12,7 +12,7 @@ MODEL:
   LOSS: "binary_crossentropy"
 
 DATASETS:
-  TRAIN: ('/isilon_yuval/Automotive/RnD/yuval.l/data/windshield_ds_new_chips-bulleye-windows/train')
-  TEST: ('/isilon_yuval/Automotive/RnD/yuval.l/data/windshield_ds_new_chips-bulleye-windows/test')
+  TRAIN: ('/blabla/train')
+  TEST: ('/blabla/test')
 
-OUTPUT_DIR: '/isilon_yuval/Automotive/RnD/yuval.l/models/unet-model-windshield/'
+OUTPUT_DIR: '/blabla/unet-model/'
